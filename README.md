@@ -10,12 +10,6 @@ This project implements a gesture-controlled, 3D-printable, 5-Degrees-of-Freedom
   * 2x Micro Servo Motors (for wrist and claw gripper)
 * **Controller:** Arduino Uno (or compatible microcontroller).
 * **Communication:** USB Cable for serial data transfer.
-* **Markers:** 3 distinct color blocks/bands (Green, Red, and Yellow) to be worn by the user:
-  * **Green:** Worn on the **Wrist**
-  * **Red:** Worn on the **Elbow**
-  * **Yellow:** Worn on the **Tricep/Upper Arm**
-  *(Can be easily made using LEGO blocks and velcro tape)*
-
 ---
 
 ## 💻 Software Dependencies
