@@ -1,5 +1,6 @@
 from collections import deque
 from imutils.video import VideoStream
+import imutils
 import numpy as np
 import argparse, cv2, imutils, time, serial, struct, math
 
