@@ -74,19 +74,3 @@ In [Gesture_Controlled_Robotic_Arm_Python_Code.py](file:///Users/prakhargupta/Ge
 * **macOS/Linux:** `arduino = serial.Serial('/dev/tty.usbmodemXXXX', 9600)`
 
 ---
-
-## 🚀 Running the Program
-1. Put on your color blocks (Green on wrist, Red on elbow, Yellow on tricep).
-2. Connect the Arduino Uno to your computer via USB.
-3. Start the main tracking script:
-   ```bash
-   python Gesture_Controlled_Robotic_Arm_Python_Code.py
-   ```
-4. A window showing the webcam feed will open. Ensure that all three color markers are in the camera's field of view.
-5. Move your arm; the robotic arm will mimic your movements!
-6. Press `q` to quit the application.
-
----
-
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](file:///Users/prakhargupta/Gesture-Controlled-5-DOF-Robotic-Arm-using-Computer-Vision/LICENSE) file for details.
