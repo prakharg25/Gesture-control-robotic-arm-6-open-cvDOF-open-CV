@@ -2,13 +2,6 @@
 
 This project implements a gesture-controlled, 3D-printable, 5-Degrees-of-Freedom (DOF) desktop-sized robotic arm. By tracking color-coded markers worn on the user's arm (wrist, elbow, and tricep), the system detects human arm movements using computer vision (OpenCV) and translates them into joint angles. These angles are sent in real-time via Serial communication to an Arduino Uno, which actuates the servo motors to mimic the user's gestures.
 
----
-
-## 📽️ Project Demo & STL Files
-* **Demo Video:** Watch the robotic arm in action on [YouTube](https://www.youtube.com/watch?v=PDEdxRVkMdo).
-* **3D Models & Part List:** Download the STL files for 3D printing and view the full bill of materials on [GrabCAD](https://grabcad.com/library/5-dof-robotic-arm-6).
-
----
 
 ## 🛠️ Hardware Requirements
 * **Robotic Arm Chassis:** 3D printed parts (obtain STL files from the GrabCAD link above).
